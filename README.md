@@ -2,8 +2,6 @@
 
 ## INSTALLATION INSTRUCTIONS TIGOPESA WHMCS
 
-The whmcs-tigopesa gateway module requires the use of modified templates that are provided with this distribution. 
-
 ### Please follow the instructions below to setup the whmcs-tigopesa gateway module. 
  
 Download zipped file, Upload & Extract whmcs-tigopesa folder to your whmcs's modules/gateways folder.
